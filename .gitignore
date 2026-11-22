@@ -1,0 +1,7 @@
+# Dataset and model weights are too large for GitHub
+dataset/
+final_dataset/
+cleaned_accident_dataset/
+*.pt
+runs/
+__pycache__/
